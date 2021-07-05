@@ -25,11 +25,11 @@ Add an additional layer of encryption
 
 ## Links
 
-Heroku Link: https://basic-auth-yazan.herokuapp.com/
+Heroku Link: https://beaarer-auth-yazan.herokuapp.com/
 
 Github Actions: https://github.com/yazantafesh/bearer-auth/actions
 
-Pull Request: https://github.com/yazantafesh/basic-auth/pull/1
+Pull Request: https://github.com/yazantafesh/bearer-auth/pull/1
 
 ## UML
 
